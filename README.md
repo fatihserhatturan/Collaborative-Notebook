@@ -1,2 +1,2 @@
 # Collaborative-Notebook
-Collaboraysona dayalı birden fazla kişinin aynı workspace üzerinde git mantığıyla nt tutmasını ve yönetmesini saplayan bir notebook uygulması
+A notebook application that enables multiple people to collaboratively take and manage notes in the same workspace using a Git-like workflow.
